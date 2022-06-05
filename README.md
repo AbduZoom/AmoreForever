@@ -3,8 +3,8 @@
 > Well, actually my real name is Fazliddin Farhodov. I'm 16 y.o, live in Tashkent. Prob, it's all what you'd want to know about me.
 
 
-<i><a href="https://t.me/the_farkhodov">Telegram</a></i><b>|</b>
-<i><a href="https://t.me/linuxil1">Channel</a></i><b>|</b>
+<i><a href="https://t.me/the_farkhodov">Telegram</a></i> <b>|</b>
+<i><a href="https://t.me/linuxil1">Channel</a></i> <b>|</b>
 <i><a href="https://Instagram.com/the_farkhodov">Instagram</a></i>
 
 

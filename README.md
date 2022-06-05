@@ -1,6 +1,6 @@
 ![me](https://i.imgur.com/MihSFHM.jpeg)
 
-[![Telegram](https://icons8.com/icon/112159/telegram-app)](https://t.me/the_farkhodov)
+[![Telegram](Telegram)](https://t.me/the_farkhodov)
 
 > Well, actually my real name is Fazliddin Farhodov. I'm 16 y.o, live in Tashkent. Prob, it's all what you'd want to know about me.
 

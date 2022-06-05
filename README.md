@@ -1,4 +1,4 @@
-[me](https://i.imgur.com/lzEwdOW.jpeg)
+![me](https://i.imgur.com/lzEwdOW.jpeg)
 
 [![Telegram](https://img.icons8.com/fluency/40/000000/telegram-app.png)](https://t.me/the_farkhodov)
 

@@ -1,4 +1,4 @@
-![me](https://i.imgur.com/MihSFHM.jpeg)
+![me](https://i.imgur.com/RLFOVKs.jpeg)
 
 > Well, actually my real name is Fazliddin Farhodov. I'm 16 y.o, live in Tashkent. Prob, it's all what you'd want to know about me.
 

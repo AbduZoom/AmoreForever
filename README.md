@@ -9,3 +9,5 @@
 > Ну вообще-то мое настоящее имя Фазлиддин Фарходов. Мне 16 лет, живу в Ташкенте. Проб, это все, что ты хочешь знать обо мне. 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmoreForever&show_icons=true&theme=dracula&border_radius=10&hide_border=true&hide_title=true&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AmoreForever&count_private=true&show_icons=true&theme=dracula&border_radius=10&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<a target="_blank" href="https://icons8.com/icon/112159/telegram-app">Amore</a>
